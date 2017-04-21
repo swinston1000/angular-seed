@@ -25,7 +25,7 @@
     "postupdate-deps": "bower update",
 
     "prestart": "npm install",
-    "start": "gulp ./gulpfile.js",
+    "start": "gulp",
 
     "pretest": "npm install",
     "test": "karma start karma.conf.js",
